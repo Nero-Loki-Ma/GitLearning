@@ -1,0 +1,3 @@
+[submodule "git"]
+	path = 3rdparty/git
+	url = https://github.com/Nero-Loki-Ma/git.git
